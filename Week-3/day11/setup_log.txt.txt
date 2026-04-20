@@ -1,0 +1,10 @@
+Day 11 Django Setup Log
+
+- Created virtual environment (venv)
+- Activated virtual environment
+- Installed Django
+- Checked version (django-admin --version)
+- Created project (klaw_backend)
+- Created app (courses)
+- Ran development server
+- Opened localhost in browser successfully
